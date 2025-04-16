@@ -60,14 +60,8 @@
     	</dependency>
 		<dependency>
     		<groupId>org.junit.jupiter</groupId>
-    		<artifactId>junit-jupiter-api</artifactId>
-    		<version>5.7.0</version> <!-- You can replace this with the latest version -->
-    		<scope>test</scope>
-		</dependency>
-		<dependency>
-    		<groupId>org.junit.jupiter</groupId>
     		<artifactId>junit-jupiter-engine</artifactId>
-    		<version>5.7.0</version> <!-- You can replace this with the latest version -->
+    		<version>5.10.0</version> <!-- You can replace this with the latest version -->
     		<scope>test</scope>
 		</dependency>
 		<dependency>
@@ -139,6 +133,3 @@
 	</build> -->
 
 </project>
-
-
-
